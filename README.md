@@ -1,84 +1,102 @@
-![my-banner](https://i.ibb.co/MxB5zkrM/Ichigo-Kurosaki.jpg)
+<pre align="center">
+████████╗  ███████╗  ██╗  ██╗  ████████╗  ██╗   ██╗  ██████╗   ███████╗  
+╚══██╔══╝  ██╔════╝  ╚██╗██╔╝  ╚══██╔══╝  ██║   ██║  ██╔══██╗  ██╔════╝  
+   ██║     █████╗     ╚███╔╝      ██║     ██║   ██║  ██████╔╝  █████╗    
+   ██║     ██╔══╝     ██╔██╗      ██║     ██║   ██║  ██╔══██╗  ██╔══╝    
+   ██║     ███████╗  ██╔╝ ██╗     ██║     ╚██████╔╝  ██║  ██║  ███████╗  
+   ╚═╝     ╚══════╝  ╚═╝  ╚═╝     ╚═╝      ╚═════╝   ╚═╝  ╚═╝  ╚══════╝  
+</pre>
 
-# hi, i'm abhiraj (aka texture)
-
-### surviving engineering & building the future of ai
-I'm a 19-year-old AI/ML engineering student at Mumbai University. Currently, my main focus is **The-Nexus-Protocol-TNP**, a headless protocol for AI agents to transact autonomously—essentially the Visa/DNS for the machine economy. Because why not build something ridiculously ambitious?
-
----
-
-### tech stack & arsenal
-
-**languages**
-
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-**ai & machine learning**
-
-![tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![opencv](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**frameworks & frontend**
-
-![next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![tailwind css](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**backend & databases**
-
-![node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![graphql](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**cloud, infrastructure & tools**
-
-![google cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=System+Architect+%26+ML+Engineer;Building+the+Machine+Economy;Surviving+Mumbai+University+AIML" alt="Typing SVG" />
+</p>
 
 ---
 
-### what i'm actually up to
-- **researching:** Deep learning models for autonomous agent negotiation (Nexus Protocol).
-- **building:** **Trinetra AI** (deepfake detection) & **Project Glassbox** (forensic triage system).
-- **creating:** **Aizen**, an anime streaming platform with a custom liquid glass UI.
-- **shipped:** **Placement Pro**, a full-stack web app built during a recent internship.
-- **goal:** Making agents more useful than just chatbots, and keeping my RTX 4060 from melting.
+### 📡 `[SYSTEM_LOG: STATUS]`
+
+```bash
+> ./init_abhiraj.sh
+[OK] Loading neural pathways...
+[OK] Bypassing university firewall...
+[OK] Initializing The-Nexus-Protocol-TNP...
+```
+I'm a 19-year-old AIML undergrad building things that are probably too ambitious for my own good. Currently architecting **The-Nexus-Protocol (TNP)**—basically the Visa/DNS for the machine economy. Because making agents chat is boring; I want them to *transact*.
 
 ---
 
-### beyond the screen
-When I'm not fighting with deployments on Koyeb or managing MongoDB Atlas clusters, you can probably find me reading web novels, optimizing my ROG Strix G16, or grinding out a few rounds in The Finals and Where winds meet. 
+### ⚔️ `[ACTIVE_QUESTS]`
 
-### connect with me
-[<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/1053662381064073347)
-[<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:yoriikun28@gmail.com)
+| Status | Project / Mission | Description |
+| :--- | :--- | :--- |
+| 🟢 **CORE** | **The-Nexus-Protocol** | Headless protocol for autonomous AI agent transactions. |
+| 🔴 **ACTIVE** | **Trinetra AI** | Deepfake detection & forensic triage. Trust no one. |
+| 🟡 **BETA** | **Project Glassbox** | Forensic triage system for media verification. |
+| 🔵 **DEV** | **Aizen** | Anime streaming platform with a custom liquid glass UI. |
+| ⚪ **SHIPPED** | **Placement Pro** | Full-stack web app (internship survival mode). |
 
 ---
 
-### Portfolio: https://runes-gold.vercel.app/
+### 🧰 `[LOADOUT]`
+
+*Forget the badge spam. Here's what's actually in the arsenal.*
+
+**🧠 AI & ML (The Brain)**
+`PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `OpenCV` `Keras`
+
+**💻 Languages (The Syntax)**
+`Python` `TypeScript` `Rust` `Java` `C++` `C` `Bash`
+
+**⚙️ Backend & Infra (The Engine)**
+`Node.js` `Express` `Django` `Flask` `GraphQL` `MongoDB` `PostgreSQL` `Redis` `Prisma`
+
+**🎨 Frontend (The Facade)**
+`Next.js` `React` `Vite` `Tailwind` `Figma`
+
+**☁️ Cloud & Ops (The Deployment)**
+`AWS` `GCP` `Docker` `Vercel` `Linux` `Git` `GitHub`
+
+---
+
+### 📊 `[SYSTEM_METRICS]`
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+### 🎮 `[AFK_MODE]`
+
+When I'm not fighting Koyeb deployments or coaxing my RTX 4060 into not melting:
+- **Reading:** *Shadow Slave*, *Lord of the Mysteries*, *Omniscient Reader's Viewpoint* (Weeb/Nerd hours).
+- **Gaming:** Grinding *The Finals* or *Where Winds Meet*.
+- **Tinkering:** Optimizing my ROG Strix G16 and tweaking local LLMs via `llama.cpp`.
+
+---
+
+### 📞 `[ESTABLISH_CONNECTION]`
+
+<p align="center">
+  <a href="https://discord.com/users/1053662381064073347">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:yoriikun28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://runes-gold.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat-square" />
+</p>
+```
+
+if the ascii text messes up on mobile just tweak the spaces a bit, github's markdown renderer is held together by duct tape and prayers sometimes. go update it rn, it's gonna look sick. let me know if you want to tweak the colors or add some more unhinged quotes in the typing svg.
