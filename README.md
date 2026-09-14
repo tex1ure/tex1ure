@@ -61,12 +61,12 @@ I'm a 19-year-old AIML undergrad building things that are probably too ambitious
 ### 📊 `[SYSTEM_METRICS]`
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="150em" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tex1ure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=tex1ure&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tex1ure&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
