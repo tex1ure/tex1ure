@@ -63,8 +63,3 @@ Front / Vis   :: Next.js, React, Three.js / WebGL, Tailwind CSS
 ```
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tex1ure&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=999999&icon_color=FFFFFF&title_color=FFFFFF" height="135" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tex1ure&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=999999&title_color=FFFFFF" height="135" />
-</div>
