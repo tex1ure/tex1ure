@@ -1,65 +1,27 @@
-<div align="center">
+<img src="https://i.ibb.co/3mXh8F4D/Anime-Bleach-Character-name-Ichigo-Kurosaki.jpg" width="100%" alt="Ichigo Kurosaki" />
 
-```text
- _             _                  
-| |_ _____  _| |_ _   _ _ __ ___ 
-| __/ _ \ \/ / __| | | | '__/ _ \
-| ||  __/>  <| |_| |_| | | |  __/
- \__\___/_/\_\\__|\__,_|_|  \___|
-```
+<img align="right" src="https://i.ibb.co/d44QDN8n/download-67-removebg-preview.png" width="230" alt="Ichigo Kurosaki" />
 
-**Distributed systems, local machine learning infrastructure, and digital forensics.**  
-*Undergrad building node coordination and local compute layers instead of API wrappers.*
+### Abhiraj Mukadam
+<sub>Navi Mumbai, India &nbsp;·&nbsp; CS (AI &amp; ML), Mumbai University &nbsp;·&nbsp; <a href="mailto:abhirajmukadam82@gmail.com">abhirajmukadam82@gmail.com</a></sub>
 
-<p>
-  <a href="https://runes-gold.vercel.app/"><img src="https://img.shields.io/badge/Web-runes--gold-0a0a0a?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://discord.com/users/1053662381064073347"><img src="https://img.shields.io/badge/Discord-tex1ure-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="mailto:yoriikun28@gmail.com"><img src="https://img.shields.io/badge/Mail-yoriikun28-18181b?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+I build systems, ML tools, and dark-mode web apps—mostly in Rust, Python, and TypeScript. Right now I am working on peer-to-peer LLM inference across consumer hardware and computer vision forensics.
 
-</div>
+**Things I've built**
 
----
+- **[AeroMesh](https://github.com/tex1ure/AeroMesh)** — Peer-to-peer engine in Rust for running split LLM inference across local machines over Wi-Fi and VPNs without moving model weights.
+- **[Trinetra AI](https://github.com/tex1ure/Trinetra-AI)** — Deepfake video detection web app combining spatial-temporal vision models with forensic APIs.
+- **[Aizen.to](https://github.com/tex1ure/Aizen.to)** — Anime streaming site built with a dark liquid-glass UI.
+- **[ResoLoop](https://github.com/tex1ure/ResoLoop)** — B2B hospitality resource exchange platform with conflict-free booking and analytics.
+- **[Project Glassbox](https://github.com/tex1ure/Project-Glassbox)** — Local forensic triage tool for parsing and filtering export logs *(group project)*.
+- **[The Nexus Protocol](https://github.com/tex1ure/The-Nexus-Protocol)** — Headless protocol for autonomous AI agent transactions *(group project)*.
 
-### Core Deployments
+**Experience**
 
-#### 01 / Distributed Systems & Local Compute
-- **[AeroMesh](https://github.com/tex1ure)**  
-  *P2P topology-aware orchestration engine for distributed LLM inference.*  
-  Coordinates sharded model weights across ad-hoc consumer hardware clusters via custom node discovery and latency-penalized routing.  
-  `Python` `P2P Networking` `llama.cpp` `Distributed Systems`
+- **KodeVortex** — Frontend Developer Intern (May – Aug 2025). Built the Placement Pro web app.
 
-#### 02 / Forensic Engineering & Media Verification
-- **[Project Trinetra](https://github.com/tex1ure)**  
-  *Synthetic media detection engine & forensic visual triage canvas.*  
-  Runs frequency-domain analysis alongside deep learning pipelines to flag artifact inconsistencies in manipulated visual media.  
-  `PyTorch` `OpenCV` `Flask` `Three.js` `WebGL`
+**Stack**
 
-- **[Project Glassbox](https://github.com/tex1ure)**  
-  *Automated digital forensic triage system for rapid evidence filtering.*  
-  Ingests raw digital artifacts, parses file headers, and creates verifiable metadata audit logs for investigative intake.  
-  `Python` `Data Pipelines` `Security Analysis`
+`Rust` `Python` `TypeScript` `C++` `C` `Java` `Bash` · `PyTorch` `TensorFlow` `OpenCV` `Hugging Face` `Ollama` · `Next.js` `React` `Vite` `Tailwind` `Node.js` `Flask` `Django` · `PostgreSQL` `MongoDB` `Redis` `Supabase` `Docker` `Linux`
 
-#### 03 / Automation & Applications
-- **[Reze Bot Core](https://github.com/tex1ure)**  
-  *Autonomous Discord interaction system with dynamic upstream failover.*  
-  Engineered with automated API token rotation across fallback endpoints, session-isolated memory, and MongoDB persistence.  
-  `Node.js` `Discord.js` `MongoDB Atlas` `REST APIs`
-
-- **[Placement Pro](https://github.com/tex1ure)**  
-  *End-to-end recruitment management portal.*  
-  Production CRUD platform with role-based access control, relational records management, and candidate tracking.  
-  `React` `Node.js` `Express` `Database Design`
-
----
-
-### Technical Focus
-
-```text
-Languages     :: Python, TypeScript, C++, Bash, SQL
-Inference/ML  :: PyTorch, OpenCV, llama.cpp, Local Model Quantization
-Back / Infra  :: Node.js, Express, Flask, PostgreSQL, MongoDB, Docker, Linux
-Front / Vis   :: Next.js, React, Three.js / WebGL, Tailwind CSS
-```
-
----
+<br clear="right" />
